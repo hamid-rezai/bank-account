@@ -27,6 +27,7 @@ function App() {
         <AccountOperations/>
         <BalanceDisplay/>
         </>
+        
       )}
      
     </motion.div>
