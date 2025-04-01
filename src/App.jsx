@@ -5,7 +5,7 @@ import Customer from './features/customers/customer'
 import AccountOperations from './features/accounts/accountOperations'
 import { useSelector } from 'react-redux'
 import {motion} from 'framer-motion'
-import BalanceDisplay from './features/accounts/BalanceDisplay.jsx'
+import BalanceDisplay from './features/accounts/BalanceDisplay'
 
 function App() {
 
